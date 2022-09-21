@@ -10,9 +10,9 @@ class About extends Developer {
 
 class Skills extends Developer {
   languages  = ['NodeJs', 'Kotlin', 'PHP'];
-  frameworks = ['NestJs', 'AdonisJs', 'ExpressJs', 'Jest', 'Laravel', 'SpringBoot'];
-  bibliotecas  = ['Suas bibliotecas'];
-  
+  frameworks = ['NestJs', 'AdonisJs', 'ExpressJs', 'Jest', 'Laravel', 'PHPUnit', 'SpringBoot'];
+  technologies  = ['Docker', 'Kubernetes', 'Keycloak', 'Rancher', 'Jenkins', ];
+  databases = ['MySQL', 'PostGres', 'MongoDB', 'Redis'];
 }
 ```
 
